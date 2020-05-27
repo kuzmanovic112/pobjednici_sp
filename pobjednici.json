@@ -1,0 +1,11 @@
+[
+  {"name":"Brazil","br_titula":"5","prvaci":"1958,1962,1970,1994,2002","drugi":"1950,1998","treci":"1938,1978","cetvrti":"1974,2014"},
+  {"name":"Njemacka","br_titula":"4","prvaci":"1954,1974,1990,2014","drugi":"1966,1982,1986,2002","treci":"1934,1970,2006,2010","cetvrti":"1958"},
+  {"name":"Italija","br_titula":"4","prvaci":"1934,1938,1982,2006","drugi":"1970,1994","treci":"1990","cetvrti":"1978"},
+  {"name":"Argentina","br_titula":"2","prvaci":"1978,1986","drugi":"1930,1990,2014","treci":"","cetvrti":""},
+  {"name":"Francuska","br_titula":"2","prvaci":"1998,2018","drugi":"2006","treci":"1958,1986","cetvrti":"1982"},
+  {"name":"Urugvaj","br_titula":"2","prvaci":"1930,1950","drugi":"","treci":"","cetvrti":"1954,1970,2010"},
+  {"name":"Engleska","br_titula":"1","prvaci":"1966","drugi":"","treci":"","cetvrti":"1990,2018"},
+  {"name":"2010","br_titula":"","prvaci":"","drugi":"","treci":"","cetvrti":"1950"}
+     
+]
